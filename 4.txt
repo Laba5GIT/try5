@@ -1,2 +1,3 @@
-file nomer 4 gf++++
-gfgdnkfgdfjklg
+file nomer 4 gf++++:
+gfndgndfg,
+>>>>>>> task2
